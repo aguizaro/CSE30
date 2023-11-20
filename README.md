@@ -1,5 +1,5 @@
 # CSE30 PROJECTS
-Select python projects from the CSE30: Python Programming Abstractions course at UCSC.
+Select python projects from CSE30: Programming Abstractions: Python
 
 ## Hangman
 Text based hangman game using dictionary words.
